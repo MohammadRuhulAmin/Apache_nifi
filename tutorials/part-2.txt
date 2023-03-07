@@ -1,0 +1,25 @@
+What is Data flow ? 
+=> Moving data / content from source to destination. 
+This data can be CSV, JSON, XML, HTTP data , 
+image , videos , Telemetry data etc.
+Even this data can be a sensor data from an IOT device as well.
+
+
+What is Data Pipeline ? 
+
+=> Movement and Transformation of data/content 
+from Source to Destination.
+A data pipeline is a system or process that moves data from one place to another.
+
+What is ETL ? 
+
+=> ETL stands for 
+E- Extract 
+T- Transform
+L- Load 
+It referse movement and Transformation of data from source to destination. 
+
+
+Difference between Data Pipeline & ETL
+
+=> ETL does the some thing just to know that Data pipeline is a super set and ETL is a sub set .
