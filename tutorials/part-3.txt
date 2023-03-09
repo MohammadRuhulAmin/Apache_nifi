@@ -1,0 +1,10 @@
+Why should we use Framework for dataflow ? 
+
+=> We may offen need to migrate data from point A (Source) to point B (Destination). 
+before implementing the data migration from one place to another place using any programming language we need to learn
+4V . They are =>  
+   1. Volume : Refers to the vast amounts of data generated every second . 
+   2. velocity : refers to the speed at which new data is generated and the speed at which data moves around. 
+   3. variety : refers to the different types of data we can now use .
+   4. Veracity : refers to the messiness or trustworthiness of the data. 
+   
